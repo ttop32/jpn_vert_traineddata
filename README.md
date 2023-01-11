@@ -11,7 +11,7 @@ Text transition works well but there is poor text segmentation performance
 
 
 <table>
-<tr><td> Truth </td><td> Ours jpn_vert_new </td> <td> zodiac3539 jpn_ver5 </td><td> [zodiac3539 jpn_vert](https://github.com/zodiac3539/jpn_vert)  </td></tr>
+<tr><td> Truth </td><td> Ours jpn_vert_new </td> <td> <a href="https://github.com/zodiac3539/jpn_vert">zodiac3539 jpn_ver5</a> </td><td> <a href="https://github.com/NbtKmy/jpn_vert_improvement">NbtKmy jpn_vert_v4</a> </td></tr>
 <tr>
 <td>
 って?何であなだ  <br>
