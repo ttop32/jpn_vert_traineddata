@@ -1,18 +1,19 @@
 # jpn_vert_traineddata
 tesseract jpn_vert traineddata fintune
 finetune zodiac3539 jpn_vert model with 16 jp fonts until it reach BCER 1% 
+Text transition works well but there is poor text segmentation performance  
 
 
 # Result   
-- input image
-![result](doc/result1.png)    
+- input image  
+![result](doc/result1.png)      
 - output text comparison
 
 
 <table>
-<tr><td> Truth </td><td> Ours jpn_vert_new </td> <td> zodiac3539 jpn_ver5 </td><td> NbtKmy jpn_vert_v4 </td></tr>
+<tr><td> Truth </td><td> Ours jpn_vert_new </td> <td> zodiac3539 jpn_ver5 </td><td> [zodiac3539 jpn_vert](https://github.com/zodiac3539/jpn_vert)  </td></tr>
 <tr>
-<td> 
+<td>
 って?何であなだ  <br>
 こんな所に  <br>
 いるんですっ?  <br>
@@ -23,7 +24,7 @@ finetune zodiac3539 jpn_vert model with 16 jp fonts until it reach BCER 1%
 くださいっ  <br>
   <br>
 </td>
-<td> 
+<td>
 って?僻であなた <br> 
 こんな所に  <br>
 いるんですっ3?  <br>
@@ -53,12 +54,9 @@ finetune zodiac3539 jpn_vert model with 16 jp fonts until it reach BCER 1%
 歩老まわらないで  <br>
 くだださいっつ  <br>
 </td>
-
 </tr>
 </table>
-
-
-
+  
 
 
 
