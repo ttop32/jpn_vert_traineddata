@@ -13,7 +13,8 @@ Text transition works well but there is poor text segmentation performance
 <table>
 <tr><td> Ours jpn_vert_new </td> <td> <a href="https://github.com/zodiac3539/jpn_vert">zodiac3539 jpn_ver5</a> </td><td> <a href="https://github.com/NbtKmy/jpn_vert_improvement">NbtKmy jpn_vert_v4</a> </td></tr>
 <tr>
-<td  style="white-space: pre;">
+<td  >
+<p style="white-space: pre;">
 えっと…
 ワァスサナーにかは
 前にはないのね
@@ -24,7 +25,7 @@ Text transition works well but there is poor text segmentation performance
 ちょっと!
 ピこ強って
 るんですかっ
-
+</p>
 
 </td>
 <td>
