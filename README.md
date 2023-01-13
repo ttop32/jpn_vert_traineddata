@@ -63,8 +63,9 @@ o       ボッヅクになってて <br>
 </table>
   
 
-
-
+# To reproduce
+git clone 
+see train_and_preprocess.ipynb
 
 
 
