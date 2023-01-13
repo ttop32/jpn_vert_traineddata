@@ -11,48 +11,54 @@ Text transition works well but there is poor text segmentation performance
 
 
 <table>
-<tr><td> Truth </td><td> Ours jpn_vert_new </td> <td> <a href="https://github.com/zodiac3539/jpn_vert">zodiac3539 jpn_ver5</a> </td><td> <a href="https://github.com/NbtKmy/jpn_vert_improvement">NbtKmy jpn_vert_v4</a> </td></tr>
-<tr>
+<tr><td> Ours jpn_vert_new </td> <td> <a href="https://github.com/zodiac3539/jpn_vert">zodiac3539 jpn_ver5</a> </td><td> <a href="https://github.com/NbtKmy/jpn_vert_improvement">NbtKmy jpn_vert_v4</a> </td></tr>
+<tr style="white-space: pre;">
 <td>
-って?何であなだ  <br>
-こんな所に  <br>
-いるんですっ?  <br>
-  <br>
-ナリ  <br>
-そんな格好で  <br>
-歩きまわらないで  <br>
-くださいっ  <br>
-  <br>
+えっと…
+ワァスサナーにかは
+前にはないのね
+
+横かしら?
+それ上き後ろ?
+
+ちょっと!
+ピこ強って
+るんですかっ
+
+
 </td>
 <td>
-って?僻であなた <br> 
-こんな所に  <br>
-いるんですっ3?  <br>
-  <br>
-ナリ  <br>
-そんな格好で <br> 
-歩きままわらないで <br> 
-くださいっ  <br>
+      悶                       ちょっと‼
+疾                  旋也⁈
+到尼                       かっ‼
+o       ボッヅクになってて
+加量倫了     系有旋外
+92
+
+ワ-スナーたかは
+ヮスナーとかは
+女路小
+
+かしら?
+評い千⁈
+
 </td>
 <td> 
-って?僻であなた  <br>
-こんな所に  <br>
-いるんですっ3?  <br>
-<br>
-ナリ  <br>
-そんな格好で  <br>
-歩きままわらないで <br> 
-くださいっ  <br>
-</td>
-<td> 
-って?体であなだ  <br>
-こんだな所に  <br>
-いるんですつのり  <br>
-  <br>
-ナリ  <br>
-そんな格好で  <br>
-歩老まわらないで  <br>
-くだださいっつ  <br>
+                       ちょつとリ
+捉                  放っ
+にて                       かつり
+       ボックになってて
+/、湾下     はずれるのね
+の4v0全
+
+ファスナーとかは
+アスナーとかは
+門にはないのね
+
+かしら?
+それとも後ろア
+
+
 </td>
 </tr>
 </table>
@@ -70,6 +76,8 @@ Text transition works well but there is poor text segmentation performance
 - [Best Practices re OPENMP](https://github.com/tesseract-ocr/tesseract/issues/3744) 
 - [Image too small to scale](https://github.com/tesseract-ocr/tesseract/issues/3001) 
 - [tesstrain doesnt support vertical languages](https://github.com/tesseract-ocr/tesseract/issues/2989) 
+- [tesseract](https://github.com/tesseract-ocr/tesseract) 
+- [tesstrain](https://github.com/tesseract-ocr/tesstrain) 
 - [tessdoc](https://tesseract-ocr.github.io/tessdoc/) 
 - [zodiac3539 jpn_vert](https://github.com/zodiac3539/jpn_vert) 
 - [NbtKmy jpn_vert](https://github.com/NbtKmy/jpn_vert_improvement) 
