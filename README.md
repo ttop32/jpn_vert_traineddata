@@ -6,7 +6,7 @@ Text transition works well but there is poor text segmentation performance
 
 # Result   
 - input image  
-![result](doc/result1.png)      
+![result](test/result2.jpg)      
 - output text comparison
 
 
