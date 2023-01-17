@@ -14,17 +14,27 @@ Text transition works well but there is poor text segmentation performance
 <tr><td> Ours jpn_vert_new </td> <td> <a href="https://github.com/zodiac3539/jpn_vert">zodiac3539 jpn_ver5</a> </td><td> <a href="https://github.com/NbtKmy/jpn_vert_improvement">NbtKmy jpn_vert_v4</a> </td></tr>
 <tr>
 <td >
-えっと…  <br>
-ワァスサナーにかは <br>
-前にはないのね <br>
+ふーん<br>
 <br>
-横かしら? <br>
-それ上き後ろ? <br>
+いには<br>
+斥か怒盾選ってて<br>
+はずれるのね<br>
 <br>
-ちょっと! <br>
-ピこ強って <br>
-るんですかっ <br>
-
+!<br>
+<br>
+トい稜<br>
+<br>
+えっと…<br>
+ワァスサナーにかは<br>
+前にはないのね<br>
+<br>
+横かしら?<br>
+それともを後ろ?<br>
+<br>
+ちょっと<br>
+ピに強っに<br>
+るんですかっ<br>
+<br>
 </td>
 <td>
       悶                       ちょっと‼ <br>
