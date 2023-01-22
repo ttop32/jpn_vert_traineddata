@@ -1,6 +1,6 @@
 # jpn_vert_traineddata
 tesseract jpn_vert traineddata fintune  
-finetune zodiac3539 jpn_vert model with 16 jp fonts until it reach BCER 1%   
+finetune zodiac3539 jpn_vert model with 16 types of jp fonts until it reach BCER 1%   
 Text transition works well but there is poor text segmentation performance  
 
 
